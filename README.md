@@ -22,8 +22,8 @@ Place `customer_performance.csv` in `data/raw/`. This project reads it as tab-se
 ## Folder map
 
 - `api/`: FastAPI app and endpoints
-- `data/raw/`: original input; `data/interim/` and `data/processed/` are reserved data stages
-- `docs/`: lab report and viva revision notes
+- `data/raw/`: original input
+- `docs/`: lab report 
 - `frontend/`: HTML, CSS, and plain JavaScript dashboard
 - `models/`: generated `.joblib` models and model charts
 - `src/`: ingestion, cleaning, model helpers, evaluation, and training pipeline
