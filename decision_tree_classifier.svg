@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="443" viewBox="0 0 900 443">
+<rect width="100%" height="100%" fill="#151922"/>
+<text x="24" y="38" fill="#e8eaf0" font-family="Arial" font-size="20" font-weight="bold">decision tree classifier</text>
+<text x="24" y="85" fill="#aab0bf" font-family="Arial" font-size="12">num__AcceptedCmp5</text>
+<rect x="265" y="70" width="585.0" height="18" rx="4" fill="#f5b942"/>
+<text x="857.0" y="84" fill="#e8eaf0" font-family="Arial" font-size="11">0.248</text>
+<text x="24" y="114" fill="#aab0bf" font-family="Arial" font-size="12">num__Recency</text>
+<rect x="265" y="99" width="353.0" height="18" rx="4" fill="#f5b942"/>
+<text x="625.0" y="113" fill="#e8eaf0" font-family="Arial" font-size="11">0.150</text>
+<text x="24" y="143" fill="#aab0bf" font-family="Arial" font-size="12">num__AcceptedCmp3</text>
+<rect x="265" y="128" width="349.2" height="18" rx="4" fill="#f5b942"/>
+<text x="621.2" y="142" fill="#e8eaf0" font-family="Arial" font-size="11">0.148</text>
+<text x="24" y="172" fill="#aab0bf" font-family="Arial" font-size="12">num__Tenure_Days</text>
+<rect x="265" y="157" width="297.6" height="18" rx="4" fill="#f5b942"/>
+<text x="569.6" y="171" fill="#e8eaf0" font-family="Arial" font-size="11">0.126</text>
+<text x="24" y="201" fill="#aab0bf" font-family="Arial" font-size="12">num__AcceptedCmp1</text>
+<rect x="265" y="186" width="246.6" height="18" rx="4" fill="#f5b942"/>
+<text x="518.6" y="200" fill="#e8eaf0" font-family="Arial" font-size="11">0.104</text>
+<text x="24" y="230" fill="#aab0bf" font-family="Arial" font-size="12">education__Education</text>
+<rect x="265" y="215" width="157.9" height="18" rx="4" fill="#f5b942"/>
+<text x="429.9" y="229" fill="#e8eaf0" font-family="Arial" font-size="11">0.067</text>
+<text x="24" y="259" fill="#aab0bf" font-family="Arial" font-size="12">num__NumCatalogPurchases</text>
+<rect x="265" y="244" width="109.3" height="18" rx="4" fill="#f5b942"/>
+<text x="381.3" y="258" fill="#e8eaf0" font-family="Arial" font-size="11">0.046</text>
+<text x="24" y="288" fill="#aab0bf" font-family="Arial" font-size="12">num__Age</text>
+<rect x="265" y="273" width="99.0" height="18" rx="4" fill="#f5b942"/>
+<text x="371.0" y="287" fill="#e8eaf0" font-family="Arial" font-size="11">0.042</text>
+<text x="24" y="317" fill="#aab0bf" font-family="Arial" font-size="12">cat__Marital_Status_Divorced</text>
+<rect x="265" y="302" width="53.3" height="18" rx="4" fill="#f5b942"/>
+<text x="325.3" y="316" fill="#e8eaf0" font-family="Arial" font-size="11">0.023</text>
+<text x="24" y="346" fill="#aab0bf" font-family="Arial" font-size="12">num__Income</text>
+<rect x="265" y="331" width="45.7" height="18" rx="4" fill="#f5b942"/>
+<text x="317.7" y="345" fill="#e8eaf0" font-family="Arial" font-size="11">0.019</text>
+<text x="24" y="375" fill="#aab0bf" font-family="Arial" font-size="12">num__NumWebVisitsMonth</text>
+<rect x="265" y="360" width="40.7" height="18" rx="4" fill="#f5b942"/>
+<text x="312.7" y="374" fill="#e8eaf0" font-family="Arial" font-size="11">0.017</text>
+<text x="24" y="404" fill="#aab0bf" font-family="Arial" font-size="12">num__Teenhome</text>
+<rect x="265" y="389" width="23.3" height="18" rx="4" fill="#f5b942"/>
+<text x="295.3" y="403" fill="#e8eaf0" font-family="Arial" font-size="11">0.010</text>
+</svg>
